@@ -1,4 +1,6 @@
 # spongecase
+[![Gem Version](https://badge.fury.io/rb/spongecase.svg)](https://badge.fury.io/rb/spongecase)
+
 Ruby string method to make your strings sArCaStIc af
 
 
