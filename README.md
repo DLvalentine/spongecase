@@ -2,7 +2,8 @@
 Ruby string method to make your strings sArCaStIc af
 
 
-This repo contains the gemspec and the spongecase.rb file. It is up on RubyGems.org toooooooo
+This repo contains the gemspec and the spongecase.rb file. It is up on RubyGems.org too!
+`gem install spongecase` woot woot
 
 For local use: 
 
@@ -15,8 +16,9 @@ Then BAM you can require it in your projects. glhf.
 
 Example:
 
+```
+"Wow this party is great".spongecase
 
-"Wow this party is great" = input
-
-
-"WoW tHiS pArTy iS gReAt" = output
+output
+"WoW tHiS pArTy iS gReAt" 
+```
