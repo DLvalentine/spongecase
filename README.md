@@ -2,7 +2,7 @@
 Ruby string method to make your strings sArCaStIc af
 
 
-This repo contains the gemspec and the spongecase.rb file. Will throw this up on RubyGems later on. 
+This repo contains the gemspec and the spongecase.rb file. It is up on RubyGems.org toooooooo
 
 For local use: 
 
