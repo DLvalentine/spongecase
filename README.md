@@ -1,7 +1,7 @@
 # spongecase
 [![Gem Version](https://badge.fury.io/rb/spongecase.svg)](https://badge.fury.io/rb/spongecase)
 
-Ruby string method to make your strings sArCaStIc af
+Ruby string method to make your strings sArCaStIc :fire: 
 
 
 This repo contains the gemspec and the spongecase.rb file. It is up on RubyGems.org too!
