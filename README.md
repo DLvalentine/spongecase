@@ -14,5 +14,9 @@ Then BAM you can require it in your projects. glhf.
 
 
 Example:
+
+
 "Wow this party is great" = input
+
+
 "WoW tHiS pArTy iS gReAt" = output
