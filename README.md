@@ -1,5 +1,6 @@
 # spongecase
 [![Gem Version](https://badge.fury.io/rb/spongecase.svg)](https://badge.fury.io/rb/spongecase)
+[![Build Status](https://travis-ci.org/DLvalentine/spongecase.svg?branch=master)](https://travis-ci.org/DLvalentine/spongecase)
 
 Ruby string method to make your strings sArCaStIc :fire: 
 
