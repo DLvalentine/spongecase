@@ -6,6 +6,8 @@
 
 Ruby string method to make your strings sArCaStIc :fire: 
 
+<img src='http://i0.kym-cdn.com/entries/icons/original/000/022/940/spongebobicon.jpg' height='150px' width='150px'/>
+
 
 This repo contains the gemspec and the spongecase.rb file. 
 
