@@ -7,7 +7,7 @@ Ruby string method to make your strings sArCaStIc :fire:
 This repo contains the gemspec and the spongecase.rb file. It is up on RubyGems.org too!
 `gem install spongecase` woot woot
 
-Whipped this bad boy up in 5 minutes. Maybe one day I'll make a cowsay clone with this.
+Whipped this bad boy up in 5 minutes. Maybe one day I'll make a cowsay clone with this.... or Spongebob Ipsum text
 
 For local use: 
 
