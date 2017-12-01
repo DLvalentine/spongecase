@@ -11,7 +11,7 @@ This repo contains the gemspec and the spongecase.rb file.
 `gem install spongecase` woot woot
 
 ## Why?
-Mainly for the lols. But also because I wanted to learn how to publish a gem.
+Mainly for the lols. But also because I wanted to learn how to publish a gem and play with Travis CI.
 
 Whipped this bad boy up in 5 minutes. Maybe one day I'll make a cowsay clone with this.... or Spongebob Ipsum text. The uses for this are endless, I promise you.
 
