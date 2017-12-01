@@ -24,9 +24,11 @@ Then BAM you can require it in your projects. glhf.
 
 Example:
 
-```
+```ruby
+require 'spongecase'
+
 "Wow this party is great".spongecase
 
-output
+# output
 "WoW tHiS pArTy iS gReAt" 
 ```
