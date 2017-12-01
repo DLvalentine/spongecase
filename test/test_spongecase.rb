@@ -1,4 +1,4 @@
-require_relative '../lib/spongecase'
+require_relative '../spongecase/lib/spongecase'
 
 test_string = 'hello world'.spongecase
 
