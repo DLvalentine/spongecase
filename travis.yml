@@ -1,6 +1,6 @@
 language: ruby
 
-script: 'test/test_spongecase.rb'
+script: ruby 'test/test_spongecase.rb'
 
 rvm:
   - ruby-head
