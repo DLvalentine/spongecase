@@ -13,7 +13,7 @@ For local use:
 
 1. cd into spongecase
 2. gem build spongecase.gemspec
-3. gem install spongecase-1.0.gem
+3. gem install spongecase-1.0.1.gem
 
 Then BAM you can require it in your projects. glhf.
 
