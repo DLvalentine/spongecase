@@ -25,7 +25,7 @@ Local:
 Then BAM you can require it in your projects. glhf.
 
 
-Example:
+## Usage
 
 ```ruby
 require 'spongecase'
