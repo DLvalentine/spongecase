@@ -14,6 +14,8 @@ This repo contains the gemspec and the spongecase.rb file.
 ## Installation
 `gem install spongecase` woot woot
 
+then throw that bad boy in your gemfile so you can require it all over the place
+
 ## Why?
 Mainly for the lols. But also because I wanted to learn how to publish a gem and play with Travis CI.
 
