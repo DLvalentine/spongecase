@@ -6,7 +6,7 @@
 
 Ruby string method to make your strings sArCaStIc :fire: 
 
-<img src='http://i0.kym-cdn.com/entries/icons/original/000/022/940/spongebobicon.jpg' height='150px' width='150px'/>
+<img src='https://i.imgflip.com/1pq988.jpg' height='150px' width='150px'/>
 
 
 This repo contains the gemspec and the spongecase.rb file. 
@@ -21,23 +21,13 @@ Mainly for the lols. But also because I wanted to learn how to publish a gem and
 
 Whipped this bad boy up in 5 minutes. Maybe one day I'll make a cowsay clone with this.... or Spongebob Ipsum text. The uses for this are endless, I promise you.
 
-## Build...?
-Local: 
-
-1. cd into spongecase
-2. gem build spongecase.gemspec
-3. gem install spongecase-1.0.1.gem
-
-Then BAM you can require it in your projects. glhf.
-
-
 ## Usage
 
 ```ruby
 require 'spongecase'
 
-'Wow this party is great'.spongecase
+'this is a useful gem'.spongecase
 
 # output
-'WoW tHiS pArTy iS gReAt' 
+'tHiS iS a uSeFuL gEm' 
 ```
